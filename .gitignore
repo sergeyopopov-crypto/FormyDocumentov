@@ -1,0 +1,54 @@
+# Системные файлы
+Thumbs.db
+ehthumbs.db
+.DS_Store
+._*
+desktop.ini
+$RECYCLE.BIN/
+
+# Временные файлы MS Office
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.ppt
+~$*.xlsm
+~$*.xlsb
+*.lock
+
+# Временные файлы LibreOffice
+.~lock.*#
+
+# Временные/резервные файлы
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*~
+*.sav
+
+# Временные файлы AutoCAD
+*.sv$
+*.dwl
+*.dwl2
+*.ac$
+
+# Лог-файлы
+*.log
+
+# Личные данные
+*парол*
+*password*
+*реквизит*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Папки
+backup/
+temp/
+tmp/
